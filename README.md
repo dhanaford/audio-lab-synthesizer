@@ -1,4 +1,4 @@
-# audiolab4
+# audiolab: synthesizer
 
 > A Web-based synthesizer built with ToneJS and VueJs.
 
